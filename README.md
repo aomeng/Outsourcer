@@ -13,7 +13,7 @@
 
 **Key Value Proposition:** Transform complex outsourcing decisions from intuition-based to evidence-based strategy through quantitative KPI analysis, risk assessment, and financial modeling.
 
-## Product Overview {#product-overview}
+## Product Overview 
 
 ### Core Functionality
 
